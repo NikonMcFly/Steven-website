@@ -1,0 +1,23 @@
+{
+  "name": "steve",
+  "version": "0.0.0",
+  "homepage": "",
+  "authors": [
+    "nikonmcfly <nikonmcfly@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-animate": "~1.4.3",
+    "angular-route": "~1.4.3",
+    "angular-snap": "~1.8.3",
+    "bootstrap": "~3.3.5",
+    "d3": "~3.5.6"
+  }
+}
